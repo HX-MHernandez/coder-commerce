@@ -5,5 +5,6 @@
         int id;
         int userId;
         DateTime sellDate;
+        string comment;
     }
 }
